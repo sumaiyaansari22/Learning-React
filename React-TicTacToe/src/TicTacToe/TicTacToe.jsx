@@ -50,7 +50,7 @@ function TicTacToe() {
     const checkDraw = () => {
         let flag = 'true';
         if(!winner){
-            console.log(cells)
+            //console.log(cells)
             cells.forEach((cell) => {
                
                 if(cell == ''){
@@ -100,7 +100,7 @@ function TicTacToe() {
         checkDraw()
     },[cells])
 
-    
+
   return (
     <div>
 
