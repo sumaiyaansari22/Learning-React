@@ -1,0 +1,33 @@
+[
+    {
+        "image": "https://media.istockphoto.com/photos/collection-of-various-lipsticks-makeup-make-up-artist-beauty-salon-picture-id1169909415?b=1&k=20&m=1169909415&s=170667a&w=0&h=H97nXKvv6Pssle0L9a6s5Uq4zzQmdtEMPDI-L9aTPw8=",
+        "name": "Lipsticks",
+        "offer": "Min 25% Off"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1607818205895-e03b69857595?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGV5ZXNoYWRvd3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "name": "Eye Makeup",
+        "offer": "Min 15% Off"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFrZXVwJTIwZm91bmRhdGlvbnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "name": "Foundations",
+        "offer": "Min 30% Off"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1515688594390-b649af70d282?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFrZXVwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "name": "Compact & Loose Powders",
+        "offer": "Min 25% Off"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1625093525885-282384697917?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fG1ha2V1cHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "name": "Blushes and Highlighters",
+        "offer": "Min 20% Off"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1587754256282-a11d04e3472d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1ha2V1cHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "name": "Makeup Brushes",
+        "offer": "Min 30% Off"
+    }
+]
+

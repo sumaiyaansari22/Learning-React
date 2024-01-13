@@ -1,0 +1,32 @@
+ [
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-body-wash-1569423947.png",
+        "name": "BodyWash",
+        "offer": "Min 25% Off"
+    },
+    {
+        "image": "https://media.glamour.com/photos/610ace88a64271535255440e/master/w_2560%2Cc_limit/Best%2520Tree%2520Hut%2520Sugar%2520Scrubs.jpg",
+        "name": "Body Scrubs",
+        "offer": "Min 15% Off"
+    },
+    {
+        "image": "https://media.istockphoto.com/photos/set-of-hair-care-products-picture-id1012364510?b=1&k=20&m=1012364510&s=170667a&w=0&h=3ZeRoljsgSW64lCy-ILpC_LkrMGucJzEcp5EHOOFd48=",
+        "name": "Haircare",
+        "offer": "Min 30% Off"
+    },
+    {
+        "image": "https://media.allure.com/photos/62797d941ff5de4a97e2e214/4:3/w_2663,h_1997,c_limit/5-08%20best%20body%20lotions.jpg",
+        "name": "Body Lotions",
+        "offer": "Min 25% Off"
+    },
+    {
+        "image": "https://fashionista.com/.image/t_share/MTYwNTE0MjcxMTI4NTkzOTY2/skin-care-tools-home-page-3.png",
+        "name": "Body Tools",
+        "offer": "Min 20% Off"
+    },
+    {
+        "image": "https://media.allure.com/photos/5b9aad53ddba1d5ef0b2c003/3:2/w_2531,h_1687,c_limit/Allure-Editors-Favorite-Fragrances-Lede.jpg",
+        "name": "Fragnance",
+        "offer": "Min 30% Off"
+    }
+]

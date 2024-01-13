@@ -63,7 +63,6 @@ function TicTacToe() {
 
 
 
-
     const handleClick = (num) => {
         let squares = [...cells];
         if(cells[num] !== ''){
@@ -125,11 +124,10 @@ function TicTacToe() {
         </table>
         {(winner ||  draw != 'false') && (
             <>
-           <p>{winner ? `${winner} is the winner!` : 'Game is a draw'}</p>
+            <p>{winner ? `${winner} is the winner!` : 'Game is a draw'}</p>
             <button onClick={() => handleRestart()}>Play Again</button>
             </>
-        )
-        }
+        )}
     </div>
   )
 }

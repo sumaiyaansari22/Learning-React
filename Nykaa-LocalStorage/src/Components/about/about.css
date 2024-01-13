@@ -1,0 +1,184 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: rgb(252, 239, 223);
+}
+
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.column {
+    width: 33.3%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    margin-left: 550px;
+}
+
+.aboutimg {
+    margin-top: 15px;
+    height: 40rem;
+    width: 100%;
+}
+
+.about-card-item {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 5px;
+    background-color: white;
+    flex-direction: column;
+
+}
+
+.about-card-item .vision,
+.about-card-item .mission {
+    align-items: center;
+    text-align: center;
+    font-size: 4vh;
+    width: 100%;
+    background-color: palevioletred;
+}
+
+.about-card-item p{
+    text-align: center;
+    font-size: 3vh;
+}
+
+.values h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    text-decoration: underline rgb(213, 55, 108);
+}
+
+.values img {
+    height: 30%;
+    width: 100%;
+    padding: 30px 100px 30px 100px;
+}
+
+.values h3 {
+    text-align: center;
+}
+
+.values h3 a {
+    color: rgb(213, 55, 108);
+}
+
+.authenticity img {
+    margin: 0.5% 47%;
+    width: 100px;
+    height: 100px;
+}
+
+.authenticity img {
+    margin-top: 55px;
+}
+
+.authenticity h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    text-decoration: underline rgb(213, 55, 108);
+}
+
+.authenticity p {
+    text-align: center;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.authenticity button {
+    color: black;
+    width: 8rem;
+    background-color: rgb(213, 55, 108);
+    margin: 0.5% 46%;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.authenticity button:hover {
+    background-color: bisque;
+    box-shadow: 0 0.5em 0.5em -0.4em black;
+    transform: translateY(-0.25em);
+}
+
+.name {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.about-section {
+    padding: 5px;
+    text-align: center;
+    background-color: palevioletred;
+    color: black;
+    font-size: 20px;
+}
+
+.about-section h1 {
+    padding-top: 0px;
+    text-decoration: underline rgb(213, 55, 108);
+    color: black;
+}
+
+@media screen and (max-width: 1000px) {
+    .column {
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+    }
+
+    img {
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+    }
+
+    .card-item {
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+        padding: 2px;
+    }
+
+    .card-item .vision,
+    .card-item .mission {
+        width: 100%;
+    }
+
+    .values img {
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+    }
+
+    .authenticity img {
+        margin: 1% 43%;
+    }
+
+    .authenticity button {
+        margin: 1% 40%;
+    }
+}

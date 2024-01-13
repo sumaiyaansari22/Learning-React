@@ -1,0 +1,35 @@
+ [
+    {
+        "image": "https://media.istockphoto.com/photos/keep-your-skin-clean-picture-id1170104811?k=20&m=1170104811&s=612x612&w=0&h=LwjJRL3iF_on95dqKTkcvXmrV-3EqyHbMRrNsuTO4g8=",
+        "name": "Facewash",
+        "offer": "Min 50% Off"
+    },
+    {
+        "image": "https://media.allure.com/photos/620d62d81d2e82393be71c43/master/pass/2-17%20best%20toners.jpg",
+        "name": "Toners",
+        "offer": "Min 5% Off"
+    },
+    {
+        "image": "https://cdn.shopify.com/s/files/1/1607/6973/articles/face-serums_2048x.progressive.jpg?v=1615870429",
+        "name": "Serums",
+        "offer": "Min 20% Off"
+    },
+    {
+        "image": "https://media.allure.com/photos/61e980a9b9b06e59f30343ac/3:2/w_3000,h_2000,c_limit/1-20%20best%20facial%20moisturizers.jpg",
+        "name": "Moisturizer",
+        "offer": "Min 45% Off"
+    },
+    {
+        "image": "https://www.byrdie.com/thmb/CitubfplAOdZhAEQXuzRw_8uO7g=/2000x1125/smart/filters:no_upscale()/BYR-LaRoche-Posay-Anthelios-Melt-in-Milk-Sunscreen-spf60-Juliao_0003-84f2499064814b1fb929f6249ffc9ddc.jpg",
+        "name": "Sunscreens",
+        "offer": "Min 20% Off"
+    },
+    {
+        "image": "http://violethollow.com/wp-content/uploads/2019/07/Revolution_Facemaks_lowres_7-1080x715.jpg",
+        "name": "Face Masks and more..",
+        "offer": "Min 30% Off"
+    }
+]
+
+
+

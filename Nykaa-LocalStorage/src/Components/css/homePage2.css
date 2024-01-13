@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+:root {
+    --main-bg--color: palevioletred;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: var(--main-bg--color);
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    display: flex;
+    width: auto;
+}
+
+.logo {
+    display: flex;
+}
+
+.logo img {
+    width: 80px;
+    padding: 0 25px;
+}
+
+nav ul {
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0 23px;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bolder;
+    font-size: 2.5vh;
+    text-decoration: none;
+
+}
+
+nav ul li a:hover {
+    font-weight: bolder;
+    text-decoration: underline;
+
+}
+
+.lines p:hover {
+    margin: 5px 0;
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}
+
+.search input {
+    width: 30vw;
+    height: 30px;
+    border-radius: 50px;
+    margin: 6px 5px 6px 52px;
+    padding: 5px 20px;
+}
+
+.search button {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 2vh;
+    margin: 6px 280px 6px 0px;
+    border-radius: 50px;
+
+}
+
+.search button:hover {
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    background-color: black;
+
+}
+
+.cart img {
+    width: 45px;
+    padding: 5px 0px 5px 0px;
+    size-adjust: 2px;
+    margin-left: 10px;
+
+}
+
+.cart img:hover {
+    color: white;
+    background-color: white;
+}
+
+.wishlist img {
+    width: 45px;
+    padding: 5px 5px;
+    size-adjust: 3.5px;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+
+.wishlist img:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em black;
+    transform: translateY(-0.25em);
+}
+
+
+.slider {
+    width: 80vw;
+    margin: 2rem auto;
+    overflow: hidden;
+}
+
+.card {
+    max-width: 91vw;
+    margin: 37px auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cards {
+    display: flex;
+    overflow: hidden;
+}
+
+.card-item {
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 15px;
+}
+
+.card h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    min-height: calc(100vh - 58px - 12vh);
+}
+
+footer {
+    height: 12vh;
+    background-color: var(--main-bg-color);
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.card-item img {
+    width: 200px;
+}

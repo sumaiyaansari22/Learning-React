@@ -1,0 +1,32 @@
+ [
+    {
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2020/10/hairdryers-2020-2048px-9836-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+        "name": "Blow Dryer",
+        "offer": "Min 50% Off"
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-hair-straighteners-1659542081.jpg",
+        "name": "Hair Straightener",
+        "offer": "Min 35% Off"
+    },
+    {
+        "image": "https://www.byrdie.com/thmb/n2wZu3YIT-53eycbzFpkrNwg6oU=/fit-in/969x582/filters:no_upscale():max_bytes(150000):strip_icc()/ghdcontourprofessionalcrimper-f73269b6237348f186c4b17e230e545a.jpg",
+        "name": "Crimpers",
+        "offer": "Min 40% Off"
+    },
+    {
+        "image": "https://media.istockphoto.com/photos/curling-blonde-hair-on-a-large-diameter-curling-iron-on-a-pink-hair-picture-id1309367898?b=1&k=20&m=1309367898&s=170667a&w=0&h=Qfyuq54rgmxAKZX7mvXfvRmD1AZBtDexmWudNE9onVk=",
+        "name": "Curlers",
+        "offer": "Min 20% Off"
+    },
+    {
+        "image": "https://www.philips.com.au/c-dam/b2c/SmarterBeautyHub/beauty-hub/germany/hair-removal/facial-hair-removal/facial-hair-removal-inbetween-1.jpg",
+        "name": "Facial Hair Remover",
+        "offer": "Min 25% Off"
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gh-051022-best-epilators-1652281232.png",
+        "name": "Epilators",
+        "offer": "Min 40% Off"
+    }
+]
