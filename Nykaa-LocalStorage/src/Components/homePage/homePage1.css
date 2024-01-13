@@ -42,7 +42,7 @@ body {
 }
 
 .make-up, .skin-care, .bath-body, .appliances {
-    margin-left: 65px;
+    margin-left: 3.5rem;
     background-color: palevioletred;
     color: white;
     font-size: 15px;
