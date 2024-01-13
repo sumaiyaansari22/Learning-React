@@ -53,8 +53,8 @@ function Homepage() {
                     <div class="card">
                         <h2 class="my-2">Make-up</h2>
                         <div class="cards">
-                           {makeup.map((img) => {
-                                return <CardItem img={img.image} name={img.name} offer={img.offer}/>
+                           {makeup.map((card) => {
+                                return <CardItem img={card.image} name={card.name} offer={card.offer}/>
                            })
                            }
                         </div>
@@ -62,8 +62,8 @@ function Homepage() {
                     <div class="card">
                         <h2 class="my-2">Skincare</h2>
                            <div className="cards">
-                           {skincare.map((img) => {
-                                return <CardItem img={img.image} name={img.name} offer={img.offer}/>
+                           {skincare.map((card) => {
+                                return <CardItem img={card.image} name={card.name} offer={card.offer}/>
                            })
                            }
                            </div>
@@ -72,8 +72,8 @@ function Homepage() {
                     <div class="card">
                         <h2 class="my-2">Bath and Body</h2>
                         <div className="cards">
-                           {bathbody.map((img) => {
-                                return <CardItem img={img.image} name={img.name} offer={img.offer}/>
+                           {bathbody.map((card) => {
+                                return <CardItem img={card.image} name={card.name} offer={card.offer}/>
                            })
                            }
                            </div>
@@ -82,8 +82,8 @@ function Homepage() {
                     <div class="card">
                         <h2 class="my-2">Appliances</h2>
                         <div class="cards">
-                        {appliancesData.map((img) => {
-                                return <CardItem img={img.image} name={img.name} offer={img.offer}/>
+                        {appliancesData.map((card) => {
+                                return <CardItem img={card.image} name={card.name} offer={card.offer}/>
                            })
                            }
                         </div>
