@@ -4,7 +4,7 @@ import './homePage2.css';
 import './homePage3.css';
 import {useNavigate } from "react-router-dom";
 import { makeup,appliancesData,bathbody,skincare } from '../Data/allData';
-import CardItem from '../image/CardItem';
+import CardItem from '../CardItem/CardItem';
 
 function Homepage() {
     const navigate = useNavigate();
