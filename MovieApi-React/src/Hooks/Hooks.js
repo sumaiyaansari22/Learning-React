@@ -6,6 +6,8 @@ export const useApi = (title,prefix) => {
         fetch(`http://www.omdbapi.com/?${prefix}=${title}&apikey=a4405370`)
         .then((res) => {return res.json()})
         .then((res) => {
+            console.log(title,1234);
+            console.log(prefix,4321);
             if(prefix == 's'){
                 setData(res.Search);
             }else if(prefix == 'i'){

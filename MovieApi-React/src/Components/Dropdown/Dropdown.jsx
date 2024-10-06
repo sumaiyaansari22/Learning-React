@@ -21,6 +21,7 @@ const Dropdown = ({title,side}) => {
     useEffect(() => {
         console.log(movie)
         if(movie && Object.keys(movie) != 2) { 
+            //console.log(Object.keys(movie));
             setData(movie,side)
             setTitle(movie.Title,side); 
         }
